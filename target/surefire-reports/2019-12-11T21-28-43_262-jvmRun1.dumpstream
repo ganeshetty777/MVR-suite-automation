@@ -1,0 +1,246 @@
+# Created at 2019-12-11T21:29:26.859
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-12-11T21:29:27.541
+Unexpected IOException with stream: [
+
+# Created at 2019-12-11T21:29:27.544
+Unexpected IOException with stream: 1
+
+# Created at 2019-12-11T21:29:27.548
+Unexpected IOException with stream: 5
+
+# Created at 2019-12-11T21:29:27.551
+Unexpected IOException with stream: 7
+
+# Created at 2019-12-11T21:29:27.554
+Unexpected IOException with stream: 6
+
+# Created at 2019-12-11T21:29:27.558
+Unexpected IOException with stream: 0
+
+# Created at 2019-12-11T21:29:27.561
+Unexpected IOException with stream: 7
+
+# Created at 2019-12-11T21:29:27.564
+Unexpected IOException with stream: 9
+
+# Created at 2019-12-11T21:29:27.567
+Unexpected IOException with stream: 9
+
+# Created at 2019-12-11T21:29:27.570
+Unexpected IOException with stream: 6
+
+# Created at 2019-12-11T21:29:27.575
+Unexpected IOException with stream: 7
+
+# Created at 2019-12-11T21:29:27.578
+Unexpected IOException with stream: .
+
+# Created at 2019-12-11T21:29:27.580
+Unexpected IOException with stream: 5
+
+# Created at 2019-12-11T21:29:27.583
+Unexpected IOException with stream: 3
+
+# Created at 2019-12-11T21:29:27.586
+Unexpected IOException with stream: 9
+
+# Created at 2019-12-11T21:29:27.589
+Unexpected IOException with stream: ]
+
+# Created at 2019-12-11T21:29:27.592
+Unexpected IOException with stream: [
+
+# Created at 2019-12-11T21:29:27.594
+Unexpected IOException with stream: W
+
+# Created at 2019-12-11T21:29:27.597
+Unexpected IOException with stream: A
+
+# Created at 2019-12-11T21:29:27.600
+Unexpected IOException with stream: R
+
+# Created at 2019-12-11T21:29:27.602
+Unexpected IOException with stream: N
+
+# Created at 2019-12-11T21:29:27.605
+Unexpected IOException with stream: I
+
+# Created at 2019-12-11T21:29:27.608
+Unexpected IOException with stream: N
+
+# Created at 2019-12-11T21:29:27.610
+Unexpected IOException with stream: G
+
+# Created at 2019-12-11T21:29:27.614
+Unexpected IOException with stream: ]
+
+# Created at 2019-12-11T21:29:27.617
+Unexpected IOException with stream: :
+
+# Created at 2019-12-11T21:29:27.620
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.622
+Unexpected IOException with stream: T
+
+# Created at 2019-12-11T21:29:27.626
+Unexpected IOException with stream: i
+
+# Created at 2019-12-11T21:29:27.629
+Unexpected IOException with stream: m
+
+# Created at 2019-12-11T21:29:27.632
+Unexpected IOException with stream: e
+
+# Created at 2019-12-11T21:29:27.634
+Unexpected IOException with stream: d
+
+# Created at 2019-12-11T21:29:27.637
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.641
+Unexpected IOException with stream: o
+
+# Created at 2019-12-11T21:29:27.644
+Unexpected IOException with stream: u
+
+# Created at 2019-12-11T21:29:27.647
+Unexpected IOException with stream: t
+
+# Created at 2019-12-11T21:29:27.649
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.652
+Unexpected IOException with stream: c
+
+# Created at 2019-12-11T21:29:27.655
+Unexpected IOException with stream: o
+
+# Created at 2019-12-11T21:29:27.661
+Unexpected IOException with stream: n
+
+# Created at 2019-12-11T21:29:27.664
+Unexpected IOException with stream: n
+
+# Created at 2019-12-11T21:29:27.667
+Unexpected IOException with stream: e
+
+# Created at 2019-12-11T21:29:27.670
+Unexpected IOException with stream: c
+
+# Created at 2019-12-11T21:29:27.677
+Unexpected IOException with stream: t
+
+# Created at 2019-12-11T21:29:27.681
+Unexpected IOException with stream: i
+
+# Created at 2019-12-11T21:29:27.683
+Unexpected IOException with stream: n
+
+# Created at 2019-12-11T21:29:27.685
+Unexpected IOException with stream: g
+
+# Created at 2019-12-11T21:29:27.688
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.690
+Unexpected IOException with stream: t
+
+# Created at 2019-12-11T21:29:27.692
+Unexpected IOException with stream: o
+
+# Created at 2019-12-11T21:29:27.696
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.698
+Unexpected IOException with stream: C
+
+# Created at 2019-12-11T21:29:27.701
+Unexpected IOException with stream: h
+
+# Created at 2019-12-11T21:29:27.703
+Unexpected IOException with stream: r
+
+# Created at 2019-12-11T21:29:27.706
+Unexpected IOException with stream: o
+
+# Created at 2019-12-11T21:29:27.709
+Unexpected IOException with stream: m
+
+# Created at 2019-12-11T21:29:27.713
+Unexpected IOException with stream: e
+
+# Created at 2019-12-11T21:29:27.716
+Unexpected IOException with stream: ,
+
+# Created at 2019-12-11T21:29:27.719
+Unexpected IOException with stream:  
+
+# Created at 2019-12-11T21:29:27.722
+Unexpected IOException with stream: r
+
+# Created at 2019-12-11T21:29:27.724
+Unexpected IOException with stream: e
+
+# Created at 2019-12-11T21:29:27.728
+Unexpected IOException with stream: t
+
+# Created at 2019-12-11T21:29:27.732
+Unexpected IOException with stream: r
+
+# Created at 2019-12-11T21:29:27.735
+Unexpected IOException with stream: y
+
+# Created at 2019-12-11T21:29:27.738
+Unexpected IOException with stream: i
+
+# Created at 2019-12-11T21:29:27.742
+Unexpected IOException with stream: n
+
+# Created at 2019-12-11T21:29:27.746
+Unexpected IOException with stream: g
+
+# Created at 2019-12-11T21:29:27.748
+Unexpected IOException with stream: .
+
+# Created at 2019-12-11T21:29:27.751
+Unexpected IOException with stream: .
+
+# Created at 2019-12-11T21:29:27.754
+Unexpected IOException with stream: .
+
+# Created at 2019-12-11T21:29:27.756
+Unexpected IOException with stream: 
+
+# Created at 2019-12-11T21:29:27.758
+Unexpected IOException with stream: 
+
+
+# Created at 2019-12-11T21:29:31.636
+Unexpected IOException: 8,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,login(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,chrome not reachable\000A  (Session info: chrome=78.0.3904.108)\000A  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IND03687'\002C ip: '192.0.9.250'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc...\002C userDataDir: C:\005CUsers\005CGANESH~1.SHE\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:54986}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 78.0.3904.108\002C webStorageEnabled: true}\000ASession ID: 15d29418e8e64c22420ab5573927efa1\000A*** Element info: {Using=xpath\002C value=//a[text()='Home']},null,chrome not reachable\000A  (Session info: chrome=78.0.3904.108)\000A  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IND03687'\002C ip: '192.0.9.250'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc...\002C userDataDir: C:\005CUsers\005CGANESH~1.SHE\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:54986}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 78.0.3904.108\002C webStorageEnabled: true}\000ASession ID: 15d29418e8e64c22420ab5573927efa1\000A*** Element info: {Using=xpath\002C value=//a[text()='Home']},MVRTest_SingleRun_ClmRteDevEnv.login:325 \00BB WebDriver chrome not reachable\000A  (S...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=78.0.3904.108)\000A  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IND03687'\002C ip: '192.0.9.250'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc...\002C userDataDir: C:\005CUsers\005CGANESH~1.SHE\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:54986}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 78.0.3904.108\002C webStorageEnabled: true}\000ASession ID: 15d29418e8e64c22420ab5573927efa1\000A*** Element info: {Using=xpath\002C value=//a[text()='Home']}\000A\0009at src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.login(MVRTest_SingleRun_ClmRteDevEnv.java:325)\000A
+
+
+# Created at 2019-12-11T21:29:31.643
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,clmPresentationMetadataReport(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.clmPresentationMetadataReport()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@2c9f9fb0] depends on not successfully finished methods,null
+
+
+# Created at 2019-12-11T21:29:31.648
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,keyMessageMetadataReport(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.keyMessageMetadataReport()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@2c9f9fb0] depends on not successfully finished methods,null
+
+
+# Created at 2019-12-11T21:29:31.651
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,sendEmailTest(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.sendEmailTest()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@2c9f9fb0] depends on not successfully finished methods,null
+
+
+# Created at 2019-12-11T21:29:33.195
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

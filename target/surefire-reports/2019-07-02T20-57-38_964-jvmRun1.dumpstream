@@ -1,0 +1,33 @@
+# Created at 2019-07-02T20:58:42.296
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-07-02T20:58:46.812
+Unexpected IOException: 8,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,login(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,null,null,null,MVRTest_SingleRun_ClmRteDevEnv.login:322 \00BB ExceptionInInitializer,java.lang.ExceptionInInitializerError\000A\0009at src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.login(MVRTest_SingleRun_ClmRteDevEnv.java:322)\000ACaused by: org.openqa.selenium.WebDriverException: \000Aunknown error: Chrome failed to start: exited normally\000A  (chrome not reachable)\000A  (The process started from chrome location C:\005CProgram Files (x86)\005CGoogle\005CChrome\005CApplication\005Cchrome.exe is no longer running\002C so ChromeDriver is assuming that Chrome has crashed.)\000A  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 25.16 seconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IND03687'\002C ip: '192.0.4.133'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: Driver\000A\0009at src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.login(MVRTest_SingleRun_ClmRteDevEnv.java:322)\000A
+
+
+# Created at 2019-07-02T20:58:46.838
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,clmPresentationMetadataReport(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.clmPresentationMetadataReport()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478] depends on not successfully finished methods,null
+
+
+# Created at 2019-07-02T20:58:46.842
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,keyMessageMetadataReport(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.keyMessageMetadataReport()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478] depends on not successfully finished methods,null
+
+
+# Created at 2019-07-02T20:58:46.846
+Unexpected IOException: 9,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,sendEmailTest(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Method MVRTest_SingleRun_ClmRteDevEnv.sendEmailTest()[pri:0\002C instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478] depends on not successfully finished methods,null
+
+
+# Created at 2019-07-02T20:58:46.851
+Unexpected IOException: 8,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,logout(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,Could not initialize class com.salesforce.genericLib.Driver,null,Could not initialize class com.salesforce.genericLib.Driver,MVRTest_SingleRun_ClmRteDevEnv.logout:1045 NoClassDefFound Could not initializ...,java.lang.NoClassDefFoundError: Could not initialize class com.salesforce.genericLib.Driver\000A\0009at src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.logout(MVRTest_SingleRun_ClmRteDevEnv.java:1045)\000A
+
+
+# Created at 2019-07-02T20:58:47.442
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

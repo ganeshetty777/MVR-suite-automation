@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Facilitating Successful Immunization Workflow Change iDetail Migration is not being initiated and proceeding with Operational Analytical Suite]]>
+    </line>
+    <line>
+      <![CDATA[OutPut Report template copied]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched with given URL and username, password entered]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot of presentation page is taken]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+    <line>
+      <![CDATA[Environment is CLMTestEnv]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="266881" started-at="2020-02-21T14:24:07Z" finished-at="2020-02-21T14:28:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="266881" started-at="2020-02-21T14:24:07Z" finished-at="2020-02-21T14:28:34Z">
+      <class name="src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv">
+        <test-method status="PASS" signature="migration()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="migration" is-config="true" duration-ms="4483" started-at="2020-02-21T19:54:07Z" finished-at="2020-02-21T19:54:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Facilitating Successful Immunization Workflow Change iDetail Migration is not being initiated and proceeding with Operational Analytical Suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- migration -->
+        <test-method status="PASS" signature="login()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="login" duration-ms="45102" started-at="2020-02-21T19:54:11Z" finished-at="2020-02-21T19:54:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[OutPut Report template copied]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched with given URL and username, password entered]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot of presentation page is taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="clmPresentationMetadataReport()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="clmPresentationMetadataReport" duration-ms="10622" started-at="2020-02-21T19:54:56Z" depends-on-methods="src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.login" finished-at="2020-02-21T19:55:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+            <line>
+              <![CDATA[Environment is CLMTestEnv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clmPresentationMetadataReport -->
+        <test-method status="PASS" signature="keyMessageMetadataReport()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="keyMessageMetadataReport" duration-ms="201360" started-at="2020-02-21T19:55:07Z" depends-on-methods="src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.clmPresentationMetadataReport" finished-at="2020-02-21T19:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyMessageMetadataReport -->
+        <test-method status="PASS" signature="sendEmailTest()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="sendEmailTest" duration-ms="3809" started-at="2020-02-21T19:58:28Z" depends-on-methods="src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv.keyMessageMetadataReport" finished-at="2020-02-21T19:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmailTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv@735b478]" name="logout" is-config="true" duration-ms="1457" started-at="2020-02-21T19:58:32Z" finished-at="2020-02-21T19:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

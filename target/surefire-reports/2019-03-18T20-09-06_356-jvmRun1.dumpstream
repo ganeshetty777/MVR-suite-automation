@@ -1,0 +1,60 @@
+# Created at 2019-03-18T20:10:15.380
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-03-18T20:10:50.461
+Unexpected IOException with stream: Browser launched with given URL and username, password entered
+
+
+# Created at 2019-03-18T20:11:00.141
+Unexpected IOException with stream: Presentation Name: Lyrica DPN v2.8
+
+
+# Created at 2019-03-18T20:11:02.742
+Unexpected IOException with stream: Presentation found and seleceted
+
+
+# Created at 2019-03-18T20:11:04.109
+Unexpected IOException with stream: Screenshot of presentation page is taken
+
+
+# Created at 2019-03-18T20:11:04.114
+Unexpected IOException: 6,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,login(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),null,null,null
+
+
+# Created at 2019-03-18T20:11:04.126
+Unexpected IOException: 5,1,src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,clmPresentationMetadataReport(src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv),src.com.salesforce.SingleRun.MVRTest_SingleRun_ClmRteDevEnv,null,null
+
+
+# Created at 2019-03-18T20:11:07.604
+Unexpected IOException with stream: Environment is CLMTestEnv
+
+
+# Created at 2019-03-18T20:11:07.853
+Unexpected IOException with stream: Environment is CLMTestEnv
+
+
+# Created at 2019-03-18T20:11:08.220
+Unexpected IOException with stream: Environment is CLMTestEnv
+
+
+# Created at 2019-03-18T20:11:08.675
+Unexpected IOException with stream: Environment is CLMTestEnv
+
+
+# Created at 2019-03-18T20:11:09.104
+Unexpected IOException with stream: Environment is CLMTestEnv
+
+
+# Created at 2019-03-18T20:11:10.925
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-18T20:11:10.926
+Unexpected IOException with stream: 
+
+
